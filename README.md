@@ -32,7 +32,7 @@
 
 ### 💻 &nbsp;Languages:
 
-![Javascript]https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript%2B%2B&logoColor=00599C)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
