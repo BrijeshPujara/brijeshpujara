@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=brijeshpujara&theme=dark&show_icons=true" alt="brijeshpuj" />
+	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=brijeshpujar&theme=dark&show_icons=true" alt="brijeshpuj" />
 </p>
 
 <hr />
