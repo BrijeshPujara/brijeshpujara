@@ -7,6 +7,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshpujara&layout=compact&theme=chartreuse-dark" /></a>
 <br />
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=brijeshpujara&show_icons=true&theme=chartreuse-dark" alt="DMJ's github stats" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=brijeshpujara&show_icons=true&private=true&theme=chartreuse-dark" alt="DMJ's github stats" /></a>
 
 
