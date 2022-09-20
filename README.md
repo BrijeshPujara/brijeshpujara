@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/brijeshpujara/">
+	<a href="https://www.linkedin.com/in/brijesh-pujara-9885166a/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="mailto:pujara.brijesh1@gmail.com">
