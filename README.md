@@ -2,4 +2,4 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=brijeshpujara)](https://github.com/brijeshpujara/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=brijeshpujara&theme=onedark)](https://github.com/brijeshpujara/github-profile-trophy)
