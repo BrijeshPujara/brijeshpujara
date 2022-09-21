@@ -19,12 +19,10 @@
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
-<!-- <p>🎓 &nbsp;I'm currently a final year undergraduate studying Computer Science Engineering at <a href = "https://iiitn.ac.in/">IIIT Nagpur</a>.</p>
-<p>🔭 &nbsp;I’m currently working as a Google Summer of Code Intern at <a href="https://www.gnome.org/">GNOME Organization</a>.</p>
-<p>💡 &nbsp;I like to solve algorithmic problems or work on my side project during my free time.</p>
-<p>🌱 &nbsp;I'm on track for learning more about Systems Design, Rust, and get into Open Source.</p>
+<p>🎓 &nbsp;I'm a full stack developer with a BSc in Computer Science, who has undergone a 16 week Bootcamp with the Makers Academy./a>.</p>
+<p>💡 &nbsp;I'm a tech fanatic who is always looking to learn new technologies, I'm currently learning TypeScript</p>
 <p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
-<p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1kf_H6cOm7AcuRvEcbExztr9ie5qTGeiL/view?usp=sharing">Résumé</a> for more details about me.</p> -->
+<p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1Sk1b_WS1tPmAsorBtbpYkq7X2LJae_ds/view?usp=sharing">Résumé</a> for more details about me.</p>
 
 <br />
 
@@ -35,6 +33,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+
 
 ### 🚀 &nbsp;Technologies:
 
