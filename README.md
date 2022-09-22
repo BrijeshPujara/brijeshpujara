@@ -61,17 +61,17 @@
 
 ## 📕 Pinned Repositories
 
-<!-- <p align="center">
-	<a href="https://github.com/amankrx/portfolio">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshpujara&repo=portfolio&hide_border=true&theme=dark&show_icons=true" />
+<p align="center">
+	<a href="https://github.com/BrijeshPujara/Gmail-Clone">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshpujara&repo=Gmail-Clone&hide_border=true&theme=dark&show_icons=true" />
 	</a>
-	<a href="https://github.com/amankrx/amankrx">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshpujara&repo=amankrx&hide_border=true&theme=dark&show_icons=true" />
+	<a href="https://github.com/BrijeshPujara/Snapchat-Clone">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshpujara&repo=Snapchat-Clone&hide_border=true&theme=dark&show_icons=true" />
 	</a>
-	<a href="https://github.com/amankrx/Healthsy">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshpujara&repo=Healthsy&hide_border=true&theme=dark&show_icons=true" />
+	<a href="https://github.com/BrijeshPujara/LinkedIn-Clone">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshpujara&repo=LinkedIn-Clone&hide_border=true&theme=dark&show_icons=true" />
 	</a>
-	<a href="https://github.com/amankrx/Health">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Health&hide_border=true&theme=dark&show_icons=true" />
+	<a href="https://github.com/BrijeshPujara/Bank-Tech-Test">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshpujara&repo=Bank-Tech-Test&hide_border=true&theme=dark&show_icons=true" />
 	</a>
-</p> -->
+</p>
