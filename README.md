@@ -24,15 +24,16 @@
 <p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
 <p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1Sk1b_WS1tPmAsorBtbpYkq7X2LJae_ds/view?usp=sharing">CV</a> for more details about me.</p>
 
-<br />
+<br>
 
-### 💡 &nbsp;Projects:
+## 💡 &nbsp;Projects:
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
+<br>
 
 ## 🛠 &nbsp;Tech Stack:
 
