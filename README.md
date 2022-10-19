@@ -22,7 +22,7 @@
 <p>🎓 &nbsp;I'm a full stack developer with a BSc in Computer Science, who has undergone a 16 week Bootcamp with the Makers Academy.</p>
 <p>💡 &nbsp;I'm a tech fanatic who is always looking to learn new technologies, I'm currently learning TypeScript</p>
 <p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
-<p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1Sk1b_WS1tPmAsorBtbpYkq7X2LJae_ds/view?usp=sharing">Résumé</a> for more details about me.</p>
+<p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1Sk1b_WS1tPmAsorBtbpYkq7X2LJae_ds/view?usp=sharing">CV</a> for more details about me.</p>
 
 <br />
 
