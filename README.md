@@ -33,7 +33,7 @@
 | **Travel-Lite**    | Final project for Makers           | React, Cypress, Node, GoogleAPI          |                                      
 | **Netflix-React**  | Frontend Netflix clone             | React, Redux, Firebase, IMDB-API, Stripe |
 | **Bank-Tech-Test** | Practice technical test using TDD  | Javascript, Jest, Node, ESLint 
-                       with Jest.           
+                               
 
 <br>
 
