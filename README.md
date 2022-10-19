@@ -26,13 +26,13 @@
 
 <br />
 
-## Projects
-
+## 💡 &nbsp;Projects:
+<p align="center">
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
-
+</p>
 
 ## 🛠 &nbsp;Tech Stack:
 
