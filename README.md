@@ -51,27 +51,11 @@
 
 <br/>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brijeshpujara&count_private=true&theme=dark&show_icons=true" alt="amankrx" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshpujara&hide_border=true&theme=dark&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brijeshpujara&count_private=true&theme=light&show_icons=true" alt="amankrx" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshpujara&hide_border=true&theme=light&show_icons=true" />
 </p>
 
 
 
 <hr />
 
-## 📕 Pinned Repositories
-
-<p align="center">
-	<a href="https://github.com/BrijeshPujara/Gmail-Clone">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshpujara&repo=Gmail-Clone&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/BrijeshPujara/Snapchat-Clone">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshpujara&repo=Snapchat-Clone&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/BrijeshPujara/LinkedIn-Clone">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshpujara&repo=LinkedIn-Clone&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/BrijeshPujara/Bank-Tech-Test">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshpujara&repo=Bank-Tech-Test&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-</p>
