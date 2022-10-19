@@ -28,10 +28,12 @@
 
 ## 💡 &nbsp;Projects:
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name               | Description                        | Tech/tools                               |
+| -------------------| ---------------------------------- | -----------------------------------------|
+| **Travel-Lite**    | Final project for Makers           | React, Cypress, Node, GoogleAPI          |                                      
+| **Netflix-React**  | Frontend Netflix clone             | React, Redux, Firebase, IMDB-API, Stripe |
+| **Bank-Tech-Test** | Practice technical test using TDD  | Javascript, Jest, Node, ESLint 
+                       with Jest.           
 
 <br>
 
