@@ -53,7 +53,7 @@
 ### Makers Academy (Jul '22 - Oct '22)
 Training for 16-weeks full-time with a leading European software development Bootcamp, focusing
 on test driven development, pair programming and Agile practices.
-- Agile methodologies, XP values, Pair programming, Trello, Miro, Jira
+- Agile methodologies, XP values, Pair programming
 - Test driven development and behaviour driven development
 - Core Technologies: JavaScript, Ruby, Rails, React, Sinatra, jQuery, Node.js, HTML, CSS
 - Testing Frameworks: RSpec, Cabybara, Jasmine, Express, Jest, Enzyme, Cypress
