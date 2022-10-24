@@ -33,7 +33,7 @@
 | -------------------| ---------------------------------- | -----------------------------------------|
 | [Travel-Lite](https://github.com/BrijeshPujara/Travel-lite)    | Final project for Makers creating a Travel Planner promoting carbon effeciency.           | React, Cypress, Node, GoogleAPI          |                               
 | [Netflix-React](https://github.com/BrijeshPujara/Netflix-2.0-React)  | Frontend Netflix clone with Stripe payment and Google authentication.             | React, Redux, Firebase, IMDB-API, Stripe |
-| [Bank-Tech-Test](https://github.com/BrijeshPujara/Bank-Tech-Test) | Practice technical test using TDD  | Javascript, Jest, Node, ESLint 
+| [Bank-Tech-Test](https://github.com/BrijeshPujara/Bank-Tech-Test) | Practice technical test using TDD, clean code and class based design to manage a bank account.  | Javascript, Jest, Node, ESLint 
 | [Acebook](https://github.com/BrijeshPujara/the-axylotls-acebook) | Team project creating a personalised version of Facebook  | Javascript, Jest, Node, ESLint, Handlebars, Cypress, Express
 
 
