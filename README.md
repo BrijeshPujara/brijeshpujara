@@ -24,7 +24,7 @@
 <p>💬 &nbsp;Experimental and love to jump into a problem!</p>
 <p>🫶 &nbsp;A key factor in my development has been team projects and pair programming. So let's pair!</p>
 <p>💬 &nbsp;Experimental and love to jump into a problem!</p>
-<p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1Sk1b_WS1tPmAsorBtbpYkq7X2LJae_ds/view?usp=sharing">CV</a> for more details about me.</p>
+<p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1zKJQBa-85Szo2pAh71NRHGal87mv97oy/view?usp=sharing">CV</a> for more details about me.</p>
 
 
 ## 💡 &nbsp;Projects:
