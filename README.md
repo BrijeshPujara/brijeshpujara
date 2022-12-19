@@ -23,7 +23,6 @@
 <p>💡 &nbsp;I'm a tech fanatic who is always looking to learn new technologies after switching to a career in development. </p>
 <p>💬 &nbsp;Experimental and love to jump into a problem!</p>
 <p>🫶 &nbsp;A key factor in my development has been team projects and pair programming. So let's pair!</p>
-<p>💬 &nbsp;Experimental and love to jump into a problem!</p>
 <p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1jlji2TlIV_GtObnAeABt90jb1QAUozFO/view?usp=share_link">CV</a> for more details about me.</p>
 
 
