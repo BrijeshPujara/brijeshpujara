@@ -101,7 +101,7 @@ on test driven development, pair programming and Agile practices.
 
 <br/>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brijeshpujara&count_private=true&theme=light&show_icons=true" alt="amankrx" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brijeshpujara&count_private=true&theme=light&show_icons=true" " />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshpujara&theme=light&show_icons=true" />
 </p>
 
